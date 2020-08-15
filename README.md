@@ -2,5 +2,7 @@
 
 ## APIs:
 https://disease.sh/
+
 https://api.covid19api.com/summary
+
 https://github.com/mathdroid/covid-19-api
