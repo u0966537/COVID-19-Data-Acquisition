@@ -1,4 +1,5 @@
-# A server that runs on cloud computer and listen to API for data acquisition.
+# Summary
+A server that runs on cloud computer and listen to API for data acquisition.
 
 ## APIs:
 https://disease.sh/
